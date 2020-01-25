@@ -1,5 +1,7 @@
 # BDD in Action Second Edition - Chapter 1
 
+https://github.com/bdd-in-action-second-edition/chapter-1/workflows/Maven%20Build/badge.svg
+
 ## Code samples
 
 This repository contains the sample code used in chapter 1 of [BDD in Action 2nd Edition](https://www.manning.com/books/bdd-in-action-second-edition).
